@@ -1,7 +1,7 @@
 <?php
 
 if (preg_match_all('/\bban\b/', $message)) {
-if ($userId == '766109755'){
+if ($userId == '6042574114'){
 $uid = substr($message, 4);
   $len = strlen($uid);
 if ($len<6) {
