@@ -1,7 +1,7 @@
 # Test-Chemcker-Bot
 A Telegram cc checker bot with some extra added features and working gates. 
 
-So, This basically is [Hecker-CHK.](https://github.com/Junaid433/hecker-chk) With a few extra added features.
+So, This basically is [Hecker-CHK.](https://github.com/ChitNge1/Test-Chemcker-Bot/) With a few extra added features.
 
 SETUP : 
 ```
